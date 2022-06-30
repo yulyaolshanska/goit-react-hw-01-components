@@ -18,8 +18,8 @@
 }
 
 .online {
-    width: 18px;
-    height: 18px;
+    width: 16px;
+    height: 16px;
     background-color: green;
     border-radius: 50%;
     margin-right: 10px;
@@ -28,8 +28,8 @@
 }
 
 .ofline {
-       width: 18px;
-    height: 18px;
+       width: 16px;
+    height: 16px;
         background-color: rgb(196, 16, 16);
          border-radius: 50%;
     margin-right: 10px;
