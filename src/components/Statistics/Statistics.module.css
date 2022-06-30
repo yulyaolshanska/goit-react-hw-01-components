@@ -1,0 +1,21 @@
+.title {
+    text-align: center;
+}
+
+.statList {
+        border: 1px solid grey;
+    display: grid;
+        grid-template-columns: repeat(4,1fr);
+ 
+  width: 350px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.item {
+    align-items: center;
+    display: flex;
+        flex-direction: column;
+     padding: 15px;
+   
+}
