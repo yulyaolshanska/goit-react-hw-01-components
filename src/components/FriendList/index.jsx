@@ -1,6 +1,9 @@
+import css from './FriendList.module.css'
+
+
 export default function FriendList() {
     return (
-        <ul class="friend-list">
+        <ul className={css.friendList}>
  
     </ul>)
 }
